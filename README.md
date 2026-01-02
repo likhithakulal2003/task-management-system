@@ -10,7 +10,7 @@ This project was created to demonstrate:
 - Clean and maintainable code
 - Ability to follow given technical requirements
 
-##Features:
+## sFeatures:
 - Task listing
 - Add new task
 - Edit existing task
@@ -18,20 +18,20 @@ This project was created to demonstrate:
 - Delete task
 - Priority levels (Low / Medium / High)
 
-##Tech Stack:
+## Tech Stack:
 - Laravel 11+ (project uses Laravel 12)
 - PHP 8.5
 - MySQL
 - Blade Templates
 - Git & GitHub
 
-##Prerequisites:
+## Prerequisites:
 - PHP 8.1 or higher
 - Composer
 - MySQL
 - Git
 
-##Installation & Setup:
+## Installation & Setup:
 1. Clone repository
    git clone https://github.com/likhithakulal2003/task-management-system.git
    cd task-management-system
@@ -59,17 +59,17 @@ DB_PASSWORD=
 7. Run server
    php artisan serve
 
-##Application URL:
+## Application URL:
 http://127.0.0.1:8000/tasks
 
-##Application Flow
+## Application Flow
 -User opens the task listing page
 -Views all existing tasks
 -Clicks Add Task to create a new task
 -Task appears in the task list
 -User can edit or delete tasks using action icons
 
-##Security & Best Practices
+## Security & Best Practices
 -CSRF protection enabled
 -Environment variables stored securely in .env
 -MVC pattern followed
