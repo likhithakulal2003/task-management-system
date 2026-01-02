@@ -60,7 +60,7 @@ DB_PASSWORD=
    php artisan serve
 
 ## Application URL:
-http://127.0.0.1:8000/tasks
+http://127.0.0.1:8000
 
 ## Application Flow
 - User opens the task listing page
