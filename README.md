@@ -10,7 +10,7 @@ This project was created to demonstrate:
 - Clean and maintainable code
 - Ability to follow given technical requirements
 
-## Features:
+## sFeatures:
 - Task listing
 - Add new task
 - Edit existing task
@@ -63,17 +63,17 @@ DB_PASSWORD=
 http://127.0.0.1:8000/tasks
 
 ## Application Flow
-•	User opens the task listing page
-•	Views all existing tasks
-•	Clicks Add Task to create a new task
-•	Task appears in the task list
-•	User can edit or delete tasks using action icons
+- User opens the task listing page
+- Views all existing tasks
+- Clicks Add Task to create a new task
+- Task appears in the task list
+- User can edit or delete tasks using action icons
 
 ## Security & Best Practices
-•	CSRF protection enabled
-•	Environment variables stored securely in .env
-•	MVC pattern followed
-•	Resource routing used
+- CSRF protection enabled
+- Environment variables stored securely in .env
+- MVC pattern followed
+- Resource routing used
 
 
 
