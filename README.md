@@ -10,7 +10,7 @@ This project was created to demonstrate:
 - Clean and maintainable code
 - Ability to follow given technical requirements
 
-## sFeatures:
+## Features:
 - Task listing
 - Add new task
 - Edit existing task
