@@ -77,7 +77,7 @@ http://127.0.0.1:8000/tasks
 
 
 
-Author:
-Likhitha 
+Author: Likhitha 
+
 Purpose: Laravel Technical Screening Assessment
 
